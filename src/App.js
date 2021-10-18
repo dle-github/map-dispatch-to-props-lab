@@ -4,6 +4,8 @@ import Restaurants from './components/Restaurants';
 
 export class App extends Component {
   render() {
+        debugger;
+
     return (
       <div className="App">
         <RestaurantInput />
